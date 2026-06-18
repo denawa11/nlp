@@ -48,5 +48,3 @@ env/
 Thumbs.db
 
 .streamlit/
-
-model/
